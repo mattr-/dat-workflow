@@ -22,3 +22,7 @@ What about paper? No. I have to move my hands off the keyboard.
 Entries are two things. Single tasks that are easy to complete (i.e. Take out the trash) or projects that aren't (i.e. Plan a vacation).
 
 Inbox review creates tasks that go somewhere - such as a context or an existing planned project - or unplanned projects, which I'll get into next.
+
+### Unplanned projects
+
+GTD has this idea of a natural planning process, which I like. Ideally, as I review unplanned projects, there's something that helps me figure out what to actually do for the project that frames things in that way. 
