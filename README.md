@@ -27,3 +27,7 @@ Inbox review creates tasks that go somewhere - such as a context or an existing 
 
 GTD has this idea of a natural planning process, which I like. Ideally, as I review unplanned projects, there's something that helps me figure out what to actually do for the project that frames things in that way. 
 
+### Planned projects
+
+Planned projects are just projects that have been through the above planning process. They should probably have some tasks.
+
