@@ -17,4 +17,8 @@ New entries go straight into the inbox. Nowhere else. I just need that shit out 
 
 What about paper? No. I have to move my hands off the keyboard.
 
+### Reviewing entries
 
+Entries are two things. Single tasks that are easy to complete (i.e. Take out the trash) or projects that aren't (i.e. Plan a vacation).
+
+Inbox review creates tasks that go somewhere - such as a context or an existing planned project - or unplanned projects, which I'll get into next.
