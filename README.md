@@ -17,6 +17,8 @@ New entries go straight into the inbox. Nowhere else. I just need that shit out 
 
 What about paper? No. I have to move my hands off the keyboard.
 
+New idea is a command called 'todo'. One is an Alfred version and another for the command line. Need to resolve how to add items vs. starting the interface that does the reviewing
+
 ### Reviewing entries
 
 Entries are two things. Single tasks that are easy to complete (i.e. Take out the trash) or projects that aren't (i.e. Plan a vacation).
