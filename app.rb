@@ -1,6 +1,3 @@
-require 'sinatra/base'
-require 'sinatra/auth/github'
-
 module DatWorkflow
   class App < ::Sinatra::Base
     enable :sessions
